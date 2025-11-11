@@ -1,6 +1,6 @@
-#  Data Analytics Portfolio
+# Data Analytics Portfolio
 
-**Author:** Akech  Atem  
+**Author:** Akech Dau Atem  
 **Role:** Junior Data Analyst | R & SQL Enthusiast  
 
 ---
@@ -23,12 +23,16 @@ Each follows the six-step data analysis process: **Ask → Prepare → Process �
 - Found casual riders take longer, weekend rides; members ride shorter weekday trips.
 - Created visual insights for behavior patterns and recommendations.
 
- File: `Cyclistic_Case_Study.md`
+**🔗 Project Links:**
+- **Kaggle Notebook:** [Cyclistic Case Study Code](https://www.kaggle.com/code/akechatem/cyclistic-casestudy)
+- **Tableau Dashboard:** [Cyclistic Interactive Dashboard](https://public.tableau.com/views/Cyclistic-CaseStudy_17628038550950/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**File:** `Cyclistic_Case_Study.md`
 
 ---
 
 ###  Bellabeat Wellness Case Study
-**Goal:** Analyze smart device data to guide Bellabeat’s marketing strategy using user activity and sleep patterns.  
+**Goal:** Analyze smart device data to guide Bellabeat's marketing strategy using user activity and sleep patterns.  
 **Tools:** R (`tidyverse`, `lubridate`, `skimr`, `ggplot2`)  
 **Data Source:** [FitBit Fitness Tracker Data on Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)  
 *(Open dataset made available by Mobius for the Google Data Analytics Capstone.)*  
@@ -37,11 +41,19 @@ Each follows the six-step data analysis process: **Ask → Prepare → Process �
 - Found average 8,500 steps/day, 7 hours sleep, and long sedentary time.
 - Built plots linking steps, sleep, and calories.
 
- File: `Bellabeat_Case_Study.md`
+**🔗 Project Links:**
+- **Kaggle Notebook:** [Bellabeat Case Study Code](https://www.kaggle.com/code/akechatem/bellabeat-case-study)
+- **Tableau Dashboard:** [Bellabeat Activity Dashboard](https://public.tableau.com/views/BellabeatCaseStudy_17626793034380/BellabeatDailyActivityDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**File:** `Bellabeat_Case_Study.md`
 
 ---
 
-##  Tools & Technologies
-R • SQL • Spreadsheets • ggplot2 • Markdown • Git & GitHub
+## 🛠️ Tools & Technologies
+R • SQL • Spreadsheets • ggplot2 • Tableau • Markdown • Git & GitHub
 
 ---
+
+## 📫 Connect
+- **Kaggle:** [akechatem](https://www.kaggle.com/akechatem)
+- **Tableau Public:** [Akech Atem](https://public.tableau.com/app/profile/akech.atem)
